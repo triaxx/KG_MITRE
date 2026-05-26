@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+nvdcve-2.0-modified.json
